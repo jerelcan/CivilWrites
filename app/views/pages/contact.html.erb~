@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Ruby on Rails Tutorial Sample App | Contact</title>
+  </head>
+  <body>
+    <h1>Contact</h1>
+    <p>
+      Contact Ruby on Rails Tutorial about the sample app at the
+      <a href="http://railstutorial.org/feedback">feedback page</a>.
+k    </p>
+  </body>
+</html>
+
+<h1>Pages#contact</h1>
+<p>Find me in app/views/pages/contact.html.erb</p>
