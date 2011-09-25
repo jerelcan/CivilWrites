@@ -35,7 +35,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="69" selection-start="525" selection-end="525" vertical-scroll-proportion="0.7820823">
+            <state line="39" column="73" selection-start="823" selection-end="823" vertical-scroll-proportion="0.6174334">
               <folding />
             </state>
           </provider>
@@ -77,8 +77,9 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Favorites" />
       <pane id="Scope" />
+      <pane id="RailsProjectView" />
+      <pane id="Favorites" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -113,7 +114,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="RailsProjectView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -373,7 +373,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="69" selection-start="525" selection-end="525" vertical-scroll-proportion="0.7820823">
+        <state line="39" column="73" selection-start="823" selection-end="823" vertical-scroll-proportion="0.6174334">
           <folding />
         </state>
       </provider>
