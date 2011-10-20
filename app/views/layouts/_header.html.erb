@@ -1,0 +1,10 @@
+<header>
+  <%= image_tag("logo.jpg", :alt => "Civil Writes", :class => "round") %>
+  <nav class="round">
+    <ul>
+      <li><%= link_to "Home", 'home' %></li>
+      <li><%= link_to "Help", 'help'  %></li>
+      <li><%= link_to "Sign in", '../users/signup', {:controller => :users} %></li>
+    </ul>
+  </nav>
+</header>
